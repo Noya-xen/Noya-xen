@@ -19,7 +19,7 @@ class NoyaXen:
         "twitter"  : "https://x.com/XinoMixo",
         "telegram" : "https://t.me/Noli_ya"
     }
-    motto      = "Automate everything. Own nothing. Earn on-chain. 🔗"
+    motto      = "learn with anything. 🔗"
 ```
 
 ---
@@ -59,8 +59,7 @@ class NoyaXen:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noya-xen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noya-xen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noya-xen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&cache_seconds=1800" />
 
 </div>
 
