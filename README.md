@@ -47,12 +47,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Noya-xen\&theme=tokyonight)
-
----
-
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noya-xen\&theme=tokyo-night)
@@ -75,8 +69,8 @@
 
 # 🌐 Connect With Me
 
-Twitter → https://twitter.com/USERNAME
-Telegram → https://t.me/USERNAME
+Twitter → https://x.com/XinoMixo
+Telegram → https://t.me/Noli_ya
 
 ---
 
