@@ -37,22 +37,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noya-xen\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noya-xen\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Noya-xen\&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noya-xen\&theme=tokyo-night)
-
----
-
 # 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Noya-xen/Noya-xen/blob/output/github-contribution-grid-snake.svg)
