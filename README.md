@@ -75,7 +75,7 @@ class NoyaXen:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Noya-xen/Noya-xen/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Noya-xen/Noya-xen/output/github-contribution-grid-snake.svg)
 
 </div>
 
