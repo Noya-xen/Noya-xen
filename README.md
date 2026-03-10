@@ -73,7 +73,7 @@ drwxr-xr-x  ⚡  web3-smart-contract-interaction/
              ↳  Read & write smart contracts seamlessly · Solidity · Ethers.js
 
 drwxr-xr-x  🌾  airdrop-farming-tools/
-             ↳  Multi-wallet airdrop automation · Node.js · Bash
+             ↳   airdrop automation · Node.js · Bash
 ```
 
 ---
@@ -82,8 +82,8 @@ drwxr-xr-x  🌾  airdrop-farming-tools/
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Noya-xen&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=7B8CDE&icon_color=7B8CDE&text_color=cdd6f4&ring_color=7B8CDE" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noya-xen&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=7B8CDE&text_color=cdd6f4" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Noya-xen&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=7B8CDE&icon_color=7B8CDE&text_color=cdd6f4&cache_seconds=86400&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noya-xen&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=7B8CDE&text_color=cdd6f4&cache_seconds=86400" />
 
 </div>
 
@@ -91,6 +91,7 @@ drwxr-xr-x  🌾  airdrop-farming-tools/
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Noya-xen&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=7B8CDE&ring=7B8CDE&fire=f38ba8&currStreakLabel=cdd6f4&dates=6c7086)](https://git.io/streak-stats)
 
+</div>
 </div>
 
 ---
