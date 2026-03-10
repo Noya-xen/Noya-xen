@@ -59,7 +59,7 @@ class NoyaXen:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noya-xen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noya-xen&theme=tokyonight" />
 
 </div>
 
