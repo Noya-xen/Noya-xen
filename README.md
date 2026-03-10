@@ -82,8 +82,7 @@ drwxr-xr-x  🌾  airdrop-farming-tools/
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Noya-xen&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=7B8CDE&icon_color=7B8CDE&text_color=cdd6f4&cache_seconds=86400&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noya-xen&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=7B8CDE&text_color=cdd6f4&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noya-xen&theme=tokyonight" />
 
 </div>
 
