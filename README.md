@@ -7,16 +7,7 @@
 
 ---
 
-<div align="center">
-
-```
- ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗       ██╗  ██╗███████╗███╗   ██╗
- ████╗  ██║██╔═══██╗╚██╗ ██╔╝██╔══██╗      ╚██╗██╔╝██╔════╝████╗  ██║
- ██╔██╗ ██║██║   ██║ ╚████╔╝ ███████║       ╚███╔╝ █████╗  ██╔██╗ ██║
- ██║╚██╗██║██║   ██║  ╚██╔╝  ██╔══██║       ██╔██╗ ██╔══╝  ██║╚██╗██║
- ██║ ╚████║╚██████╔╝   ██║   ██║  ██║      ██╔╝ ██╗███████╗██║ ╚████║
- ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝      ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=1e1e2e&height=220&text=Noya-xen&fontSize=90&fontColor=7B8CDE&animation=twinkling&stroke=7B8CDE&strokeWidth=2&desc=Web3%20Builder%20%7C%20Blockchain%20Automation%20%7C%20Airdrop%20Farmer&descSize=16&descAlignY=70&descAlign=50&fontAlignY=45" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7B8CDE&center=true&vCenter=true&width=500&lines=Web3+Builder+%F0%9F%94%97;Blockchain+Automation+%E2%9A%A1;Airdrop+Farmer+%F0%9F%8C%BE;Always+on-chain+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -37,7 +28,7 @@ user:
   contact:
     twitter  : "https://x.com/XinoMixo"
     telegram : "https://t.me/Noli_ya"
-  status     : "Always building something on-chain 🔗"
+  status     : "learn with anything 🔗"
 ```
 
 ## 　
